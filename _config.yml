@@ -1,9 +1,5 @@
 title: My Portfolio
-<<<<<<< HEAD
 description: A Portfolio to so off what I learn.
-=======
-description: A Portfolio of things I've learned
->>>>>>> 24e1ee8a2986d10d60ee08353539985f09516c1e
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman

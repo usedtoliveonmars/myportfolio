@@ -2,16 +2,9 @@
 layout: default
 ---
 
-<<<<<<< HEAD
-## Experience
-
-**Freelance Web Developer** in _Beaufort, SC_ - Make Websites for Clients
-
-=======
 # Experience
 
 **Freelance Web Developer** in _Beaufort,SC_ - Make Wesites for Clients
->>>>>>> 24e1ee8a2986d10d60ee08353539985f09516c1e
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
