@@ -2,8 +2,12 @@
 layout: default
 ---
 
-## Welcome to another page
+<<<<<<< HEAD
+## About
+=======
+## Welcome to My Portfolio
+>>>>>>> 24e1ee8a2986d10d60ee08353539985f09516c1e
 
-_yay_
 
-[back](./)
+
+[home](./)
