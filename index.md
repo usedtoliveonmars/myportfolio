@@ -2,10 +2,6 @@
 layout: default
 ---
 
-# Experience
-
-**Freelance Web Developer** in _Beaufort,SC_ - Make Wesites for Clients
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
