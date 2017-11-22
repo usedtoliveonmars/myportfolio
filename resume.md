@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[home](./)
+
 # My Resume
 
 ---
