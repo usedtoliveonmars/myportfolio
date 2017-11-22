@@ -2,6 +2,15 @@
 layout: default
 ---
 
+# Welcome to My Portfolio!
+
+Here you can read my [resume][resume], find out what I've been learning with my [blog][blog], and find my [contact info][contactme]! Make sure to drop by and read [about][about] this page!
+
+[resume]: resume
+[blog]: blog
+[contactme]: contactme
+[about]: about
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
