@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[home](./)
-
 # My Resume
+
+[home](./)
 
 ---
 
