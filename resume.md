@@ -33,6 +33,11 @@ Test, troubleshoot, and repair F/A 18 Hornet RADAR systems and the Test Equipmen
 
 ## EDUCATION
 
+### Florida State College at Jacksonville, Jacksonville, Fl
+_starting in the Spring_
+
+I plan to take care of my required classes at FSCJ then tranfer over to University of North Florida to complete a Computer Science B.S. degree.
+
 ### Online Courses, Beaufort, SC
 _APR 2013 -  PRESENT_
 
@@ -51,9 +56,11 @@ Used Lynda.com, Marine Corps Distance Learning Network, and Sololearn to learn a
 * Installing and Running Ruby on Rails 5: MAC
 * JQuery Tutorial Course
 * HTML Fundamentals Course
-* Aviation Technician Level 1, Class A1, Pensacola, FL
-* AUG 2013 - DEC 2013
-* Learned about:
+
+### Aviation Technician Level 1, Class A1, Pensacola, FL
+_AUG 2013 - DEC 2013_
+
+Learned about:
 * AC/DC Circuits
 * Digital Circuits And Microprocessors
 * Radar Systems
@@ -73,6 +80,8 @@ Learned about:
 ### MY WORK
 
 **Business Website** — Laurel Bay Tailor Shop
-Creating a website from scratch for this small business using the Jekyll gem for Rails hosted on Github and styled with Bootstrap. Here is the link: https://usedtoliveonmars.github.io/laurelbaytailorshop/
+Creating a website from scratch for this small business using the Jekyll gem for Rails hosted on Github and styled with Bootstrap. Here is the link: [Laurel Bay Tailor Shop][laurelbaytailorshop]
 
 [home](./)
+
+[laurelbaytailorshop]: http://laurelbaytailorshop.com/
