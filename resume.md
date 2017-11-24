@@ -64,9 +64,9 @@ Used Lynda.com, Marine Corps Distance Learning Network, and Sololearn to learn a
 _JUL 2013 - AUG 2013_
 
 Learned about:
--AC/DC Circuits
--Digital Circuits
--Solid State Electronics
+* AC/DC Circuits
+* Digital Circuits
+* Solid State Electronics
 
 ---
 
