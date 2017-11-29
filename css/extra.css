@@ -4,6 +4,32 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
-.work {
-	
+/* Create two equal columns that floats next to each other */
+.right {
+    float: left;
+    width: 70%;
+    padding: 10px 20px;
+}
+.left {
+	float: right;
+    width: 30%;
+    padding: 10px;
+}
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .right {
+        width: 100%;
+    }
+}
+    @media (max-width: 600px) {
+    .left {
+        width: 100%;
+    }
 }
