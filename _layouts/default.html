@@ -11,14 +11,14 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <section class="page-header">
+    <nav> class="page-header">
       <h1><a href="./" class="project-name" style="color: white;">{{ site.title | default: site.github.repository_name }}</a></h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
         <a href="resume" class="btn">Resume</a>
         <a href="about" class="btn">About</a>
         <a href="contactme" class="btn">Contact Me</a>
         <a href="resume2" class="btn">Resume2</a>
-    </section>
+    </nav>
 
     <section class="main-content">
       {{ content }}
