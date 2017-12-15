@@ -12,10 +12,6 @@ I believe thats the beauty of code. When you set something up to run without any
 
 I had a special job when I was in the Marine Corps, I had to interpret the **[ATLAS][atlas]** code that was used for the Automated Test Bench to understand the intent of the engineer that wanted the test preformed. No one else in my work center took the time to understand the code, but I enjoyed learning about it.
 
-## Blog Coming Soon!
-
-I'm going to start a blog, writing about the things I learn. Everyday I strive to learn something new, always tring to improve. They say that you retain 90% of what you teach, I believe that to be true.
-
 
 [resume]: resume
 [contactme]: contactme
