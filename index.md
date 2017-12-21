@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to My Portfolio!
+## Welcome to My Portfolio!
 
 Here you can read my [resume][resume] and find my [contact info][contactme]! Make sure to drop by and read [about][about] this page! I have a real passion for **Web Development**, I want to create things that people will see and use on a daily basis and wont think twice about it. 
 
