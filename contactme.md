@@ -6,6 +6,8 @@ layout: default
 
 [home](./)
 
+**I am revamping this page, please be patient while it is under construction.**
+
 ---
 
 Connect with me on [Linkedin] [linkedin]!

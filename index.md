@@ -4,6 +4,8 @@ layout: default
 
 ## Welcome to My Portfolio!
 
+**I am revamping this page, please be patient while it is under construction.**
+
 Here you can read my [resume][resume] and find my [contact info][contactme]! Make sure to drop by and read [about][about] this page! I have a real passion for **Web Development**, I want to create things that people will see and use on a daily basis and wont think twice about it. 
 
 Many websites like Facebook have become more than just something to pass the time, but something that you use everyday, seemlessly! I worked with an **[Automated Test Bench][rtcass]** that would run a series of tests on components of the aircraft. Those tests where preprogrammed in **[ATLAS][atlas]** code, if it had not been for age (considering these have been around from the 90s) the tests would just work in the background and maintainers wouldn't think a thing about them!
