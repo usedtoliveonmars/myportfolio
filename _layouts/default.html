@@ -1,58 +1,54 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-
-{% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="/script/script.js"></script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118283326-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-118283326-1');
-</script>
-<!-- End Google Analytics -->
-      </head>
-  <body>
-    <nav class="page-header">
+<head>
+   <meta charset="UTF-8">
+   {% seo %}
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta name="theme-color" content="#157878">
+   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+   <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+   <script src="/script/script.js"></script>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118283326-1"></script>
+   <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+      gtag('config', 'UA-118283326-1');
+   </script>
+   <!-- End Google Analytics -->
+</head>
+<body>
+   <nav class="page-header">
       <h1><a href="./" class="project-name" style="color: white;">{{ site.title | default: site.github.repository_name }}</a></h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-        <a href="resume" class="btn">Resume</a>
-        <a href="about" class="btn">About</a>
-        <a href="contactme" class="btn">Contact Me</a>
-        <a href="https://usedtoliveonmars.github.io/WebDevBlog/" class="btn">Blog</a>
-        <a href="#" class="btn">Practice</a>
-    </nav>
-
-    <section class="main-content">
+      <a href="resume" class="btn">Resume</a>
+      <a href="about" class="btn">About</a>
+      <a href="contactme" class="btn">Contact Me</a>
+      <a href="https://usedtoliveonmars.github.io/WebDevBlog/" class="btn">Blog</a>
+      <a href="#" class="btn">Practice</a>
+   </nav>
+   <section class="main-content">
       {{ content }}
-
       <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">Chris Cushman</a>.</span>
-        {% endif %}
+         {% if site.github.is_project_page %}
+         <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">Chris Cushman</a>.</span>
+         {% endif %}
       </footer>
-    </section>
-
-    {% if site.google_analytics %}
-      <script type="text/javascript">
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
-  </body>
+   </section>
+   {% if site.google_analytics %}
+   <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+   </script>
+   {% endif %}
+</body>
 </html>
