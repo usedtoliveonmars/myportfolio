@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to My Portfolio!
 
-**I am revamping this page, please be patient while it is under construction.**
+**This is the dev branch, here I'll come up with new things to change with the sites structure.**
 
 Here you can read my [resume][resume] and find my [contact info][contactme]! Make sure to drop by and read [about][about] this page! I have a real passion for **Web Development**, I want to create things that people will see and use on a daily basis and wont think twice about it. 
 
