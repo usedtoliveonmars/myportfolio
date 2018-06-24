@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**Make icons for each way to contact me**
+
 # Contact Me
 
 [home](./)

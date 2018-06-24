@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**Make blog seem like you are navigating to it**
+
 ## Welcome to My Portfolio!
 
 **This is the dev branch, here I'll come up with new things to change with the sites structure.**
