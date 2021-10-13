@@ -3,4 +3,4 @@ description: Your resource to learn more about Chris Cushman!
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-baseurl: http://chriscushman.com/
+#baseurl: chriscushman.com
