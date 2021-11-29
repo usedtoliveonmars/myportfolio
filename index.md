@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to My Portfolio!
+## Welcome to My Portfolio
 
 **I am revamping this page, please be patient while it is under construction.**
 
